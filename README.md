@@ -1,11 +1,10 @@
-# neuroscience-course
 
-This repository contains my solutions, notes, and code
-from the *Neuroscience of learning, memory and cognition* course.
 
+This repository contains my solutions, notes, and codes
+from different courses that I took in Neuroscience and related topics.
 ---
-
-## Course Materials
+#Neuroscience of learning, memory and cognition(master course)
+## *Neuroscience of learning, memory and cognition* Course Materials
 
 | Topic | HW | Code | Report |
 |------|------|------|----------|
@@ -16,6 +15,6 @@ from the *Neuroscience of learning, memory and cognition* course.
 
 ---
 
-## Project Description
+# Neuroscience 
+##Neuroscience Course Materials:
 
-In this project, I study ...
