@@ -9,7 +9,7 @@ from the *Neuroscience of learning, memory and cognition* course.
 
 | Topic | HW | Code | Report |
 |------|------|------|----------|
-| ERP, TFR, ERSP | [HW1.pdf](NeuroScience_CA1_Spring1404(2).pdf) | [intro.py](code/intro.py) | [Open](notebooks/intro.ipynb) |
+| ERP, TFR, ERSP | [HW1.pdf](NeuroScience_CA1_Spring1404(2).pdf) | [code1.py](code1.ipynb) | [Open](Report1.pdf) |
 | Data | [Data.pdf](notes/data.pdf) | [data.py](code/data.py) | [Open](notebooks/data.ipynb) |
 | Models | [Models.pdf](notes/models.pdf) | [models.py](code/models.py) | [Open](notebooks/models.ipynb) |
 | Optimization | [Opt.pdf](notes/opt.pdf) | [opt.py](code/opt.py) | [Open](notebooks/opt.ipynb) |
