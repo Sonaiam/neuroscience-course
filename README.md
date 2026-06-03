@@ -6,9 +6,9 @@ from different courses that I took in Neuroscience and related topics.
 
 | Topic | HW | Code | Report |
 |------|------|------|----------|
-| ERP, TFR, ERSP | [HW1.pdf](NeuroScience_HW1_Spring1404.pdf) | [code1.py](code1.ipynb) | [Report1](Report1.pdf) |
+| ERP, TFR, ERSP | [HW1.pdf](NeuroScience_HW1_Spring1404.pdf) | [code1](code1.ipynb) | [Report1](Report1.pdf) |
 | Measures of functional brain connectivity | [HW2.pdf](Neuroscience_HW2.pdf) | [code2](Code2-part1,3.ipynb) | [Report2](Report2.pdf) |
-| Hypothesis-Driven EEG Analysis | [HW3.pdf](Neuroscience_HW3.pdf) | [code3.py](code3.ipynb) |  [Report3](Report3.pdf) |
+| Hypothesis-Driven EEG Analysis | [HW3.pdf](Neuroscience_HW3.pdf) | [code3](code3.ipynb) |  [Report3](Report3.pdf) |
 | Reinforcement Learning Simulation using Q-Learning | [Final Project.pdf](Neuro_Final_Project.pdf) | [Project Code](ProjectCode.ipynb) | [Project Report](ProjectReport.pdf) |
 
 ---
@@ -16,7 +16,7 @@ from different courses that I took in Neuroscience and related topics.
 # Neuroscience 
 Neuroscience Course Project:
 
-We tried to reproduce the results of the paper ["Hebbian learning and spiking neurons"](Hebbian learning and spiking neurons.pdf) in this project.
+We tried to reproduce the results of the paper [Hebbian learning and spiking neurons](Hebbian_learning_and_spiking_neurons.pdf) in this project.
 
 | summary | report of repced results | code |
 |------|------|------|
