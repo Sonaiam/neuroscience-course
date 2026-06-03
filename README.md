@@ -21,3 +21,11 @@ We tried to reproduce the results of the paper [Hebbian learning and spiking neu
 | summary | report of repced results | code |
 |------|------|------|
 |[Hebbian Learning Summary](HL_Summary.pdf) |[Reproduced Results](repRESULTS.pdf)|[code]() |
+
+---
+# Advanced Neuroscience (auditory course)
+Course Materials :
+
+Will be updated!
+
+
