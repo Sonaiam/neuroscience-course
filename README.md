@@ -11,6 +11,7 @@ from different courses that I took in Neuroscience and related topics.
 | Hypothesis-Driven EEG Analysis | [HW3.pdf](Neuroscience_HW3.pdf) | [code3](code3.ipynb) |  [Report3](Report3.pdf) |
 | Reinforcement Learning Simulation using Q-Learning | [Final Project.pdf](Neuro_Final_Project.pdf) | [Project Code](ProjectCode.ipynb) | [Project Report](ProjectReport.pdf) |
 
+here is a [video](RL.gif)  of ajent learning to find it's way! 
 ---
 
 # Neuroscience 
